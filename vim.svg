@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M148.28699,58 L150.090485,59.7924424 L150.090485,66.2733986 L148.437282,67.7902765 L143.920583,67.7902765 L143.920583,141.5125 L141.223495,142.941244 L131.905825,142.941244 L50,65.8597581 L50,59.7924424 L51.8034951,58.1378802 L88.0223301,58.1378802 L89.8256311,59.6547581 L89.8256311,66.1357143 L87.8718447,68.0660369 L82.3112621,68.0660369 L115.975146,98.5401037 L115.975146,68.0660369 L112.067767,68.0660369 L110.339612,66.1355184 L110.339612,59.9994585 L112.518835,58 L148.28699,58 L148.28699,58 L148.28699,58 Z" id="Vim-2" sketch:type="MSShapeGroup" transform="translate(100.000000, 100.500000) scale(-1, 1) translate(-100.000000, -100.500000) "></path>
+        </g>
+    </g>
+</svg>
